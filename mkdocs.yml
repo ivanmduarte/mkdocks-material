@@ -22,5 +22,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - ms-bus: bus.md
   - Info: info.md
